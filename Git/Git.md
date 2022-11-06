@@ -1,5 +1,5 @@
-Introduction
-============================
+# Introduction
+
 
 From the [official website](https://git-scm.com):
 
