@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d33ec6fc37dbe982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HovedForløb 2/LINUX/1. Server Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb5045a3a108883d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Setup.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd92a6e7740eb75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dactyl - keybord/STL files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21126323bee2f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dactyl - keybord/Component list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02ef17110604b536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dactyl - keybord/Component list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df2bc3e009f158c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Auto-Overvågning/Prometheus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9bb2b7eb317b42ee",
             "type": "leaf",
             "state": {
@@ -91,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,14 +139,14 @@
   "active": "9bb2b7eb317b42ee",
   "lastOpenFiles": [
     "Auto-Overvågning/Prometheus.md",
-    "Dactyl - keybord/Component list.md",
     "Dactyl - keybord/Build Guide.md",
+    "Dactyl - keybord/Component list.md",
     "Dactyl - keybord/STL files.md",
+    "Auto-Overvågning/Grafana.md",
     "Git/Setup.md",
     "Git/Cheatsheet.md",
     "HovedForløb 2/LINUX/OperationSystem.md",
     "test.md",
-    "HovedForløb 2/LINUX/1. Server Linux.md",
-    "HovedForløb 2/LINUX/Debian Install Guide.md"
+    "HovedForløb 2/LINUX/1. Server Linux.md"
   ]
 }
