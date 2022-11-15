@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EdX Kuber/Kubernetes Architecture..md",
+                "file": "EdX Kuber/Kubernetes Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EdX Kuber/Kubernetes Architecture..md",
+                "file": "EdX Kuber/Kubernetes Concepts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EdX Kuber/Kubernetes Architecture..md",
+                "file": "EdX Kuber/Kubernetes Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EdX Kuber/Kubernetes Architecture..md"
+                "file": "EdX Kuber/Kubernetes Concepts.md"
               }
             }
           }
@@ -181,13 +181,13 @@
   },
   "active": "df4a0066d1a5765d",
   "lastOpenFiles": [
-    "EdX Kuber/Contole Plane..md",
     "EdX Kuber/Kubernetes Architecture..md",
+    "EdX Kuber/From Monolith To Microservices.md",
+    "EdX Kuber/Contole Plane..md",
+    "EdX Kuber/Containers.md",
     "EdX Kuber/Kubernetes Concepts.md",
     "Git/Cheatsheet.md",
     "Git/illustrations/branching.png",
-    "EdX Kuber/Containers.md",
-    "EdX Kuber/From Monolith To Microservices.md",
     "Untitled.md",
     "Git/Concepts.md",
     "Git/Git.md"
