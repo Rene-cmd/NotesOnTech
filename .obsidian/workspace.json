@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EdX Kuber/Kubernetes Concepts.md",
+                "file": "EdX Kuber/Kubernetes Architecture..md",
                 "mode": "source",
                 "source": false
               }
@@ -36,8 +36,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faa3799c4ef048a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EdX Kuber/Kubernetes Architecture..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9e6bf09f1d9eee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EdX Kuber/Contole Plane..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Cheatsheet.md",
+                "file": "EdX Kuber/Kubernetes Architecture..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Cheatsheet.md",
+                "file": "EdX Kuber/Kubernetes Architecture..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Cheatsheet.md"
+                "file": "EdX Kuber/Kubernetes Architecture..md"
               }
             }
           }
@@ -154,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00333ff2bc554fbd",
+  "active": "df4a0066d1a5765d",
   "lastOpenFiles": [
+    "EdX Kuber/Contole Plane..md",
+    "EdX Kuber/Kubernetes Architecture..md",
+    "EdX Kuber/Kubernetes Concepts.md",
+    "Git/Cheatsheet.md",
     "Git/illustrations/branching.png",
     "EdX Kuber/Containers.md",
-    "EdX Kuber/Kubernetes Concepts.md",
     "EdX Kuber/From Monolith To Microservices.md",
     "Untitled.md",
     "Git/Concepts.md",
-    "Git/Git.md",
-    "Git/Setup.md",
-    "Git/Cheatsheet.md",
-    "Auto-Overvågning/Grafana.md"
+    "Git/Git.md"
   ]
 }
