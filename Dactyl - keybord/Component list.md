@@ -1,0 +1,13 @@
+**_Key switches x80 |_** Being able to pick your favourite keyswitch is one of the main perks of building a keyboard by yourself. There are just so many types out there that you can’t really go wrong with any of it. HOWEVER, these cases are mostly designed for cherry or cherry-like key switches, kaih or others that I am not aware of will not fit the case snuggly, hot glue will be needed. I myself went with gateron blue, for its light key feel (don’t flame me for this please) and to save me a few quid if this project happens to fail.
+
+**_Keycaps x 1 full set |_** When buying keycaps be reminded that there are different types such as OEM DSA SA etc. Uniform height style of keycaps is recommended to avoid height differences in the same roll of the keyboard. Finding the right keycap style is not easy as it requires some special keys with specific unit size. If you don’t mind you could buy blank keycaps to save yourself the headache of finding the right style and right unit size.
+
+**_Wires, wire stripper and razor x1_ |** Having a good wire selection is especially important when you are doing this new. Thicker wire is easier to solder and strip and should cause you less headache in the process. I went with 24 AWG wire stranded (AWG refers to the width of the wire, the smaller the number the thicker the cable, there is also a version of solid wire and stranded wire) but I think I could have benefited if I have gone with 22 AWG. A wire stripper is much appreciated when dealing with wire in general, and having a sharp razor on hand would be great as well.
+
+**_Diodes x80_ |** Self-explanatory, just get the right one 1N4148, and try to find one that is shipped like this, so it could save you a lot of time bending it individually later on.
+
+**_Arduino pro micro x2 |_** There are a lot of different variant of Arduino out there, just find one with good reviews and with good pricing, if you are not comfortable with soldering, try to find one with the legs installed. I myself purchased 2 more just in case but I am just a little paranoid in general.
+
+**_3.5 jack / TRS / TRRS connector x4 |_** A 3.5 jack cable is used to connect both halves of the keyboard. However, make sure what type of 3.5 jack you are using. The dactyl keyboard requires at least 3 data pin of connection, so only TRS or TRRS could be used.
+
+**_3.5 jack / TRS / TRRS connector x4 |_** A 3.5 jack cable is used to connect both halves of the keyboard. However, make sure what type of 3.5 jack you are using. The dactyl keyboard requires at least 3 data pin of connection, so only TRS or TRRS could be used.
