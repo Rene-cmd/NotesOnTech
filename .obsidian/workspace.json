@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a01f8c9149cfa78e",
+        "id": "9b04ac65b0e5cb1c",
         "type": "tabs",
         "children": [
           {
-            "id": "67ea73b402ef4ddb",
+            "id": "b2be66c3fb1584b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal upgrade/STARSHIP.md",
+                "file": "Git/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal upgrade/STARSHIP.md",
+                "file": "Git/Cheatsheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal upgrade/STARSHIP.md",
+                "file": "Git/Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal upgrade/STARSHIP.md"
+                "file": "Git/Cheatsheet.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67ea73b402ef4ddb",
+  "active": "b2be66c3fb1584b2",
   "lastOpenFiles": [
-    "Auto-Overvågning/Grafana.md",
-    "Terminal upgrade/STARSHIP.md",
-    "Terminal upgrade/ZSH.md",
-    "Terminal upgrade/Git Script.md",
-    "Misc/3D Print/Vive Idears.md",
-    "Dactyl - keybord/Component list.md",
-    "Dactyl - keybord/Build Guide.md",
-    "Dactyl - keybord/STL files.md",
-    "Weekly notes/2022-11-18.md",
-    "Weekly notes/2022-11-16.md"
+    "Git/illustrations/branching.png",
+    "HovedForløb 4/Automatisering/Backup Script.md",
+    "HovedForløb 4/Automatisering/Recovery script.md",
+    "HovedForløb 4/CCNP/TCL (tickle).md",
+    "HovedForløb 4/CCNP/Case CCNP.md",
+    "HovedForløb 4/Automatisering/Backup -teori.md",
+    "WSL/WSL Config.md",
+    "Untitled.md",
+    "HovedForløb 2/CCNA/ACL CONFIG.md",
+    "HovedForløb 2/CCNA/OSPF CONFIG.md"
   ]
 }
