@@ -1,3 +1,9 @@
 {
-  "attachmentFolderPath": "HovedForløb 2/Billeder-billag"
+  "attachmentFolderPath": "HovedForløb 2/Billeder-billag",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -1,6 +1,8 @@
 ## Basic start setup
 ```bash
-enable configure terminal enable secret 
+enable 
+configure terminal 
+enable secret 
 password service password-encryption 
 banner motd “meddelelse” 
 no ip domain-lookup

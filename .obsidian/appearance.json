@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "obsidian-workspace-background(Shiba Uni Theme)"
+  ]
 }
