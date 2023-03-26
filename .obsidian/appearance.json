@@ -3,5 +3,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "obsidian-workspace-background(Shiba Uni Theme)"
-  ]
+  ],
+  "cssTheme": "",
+  "baseFontSize": 17
 }

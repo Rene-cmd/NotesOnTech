@@ -11,8 +11,12 @@
             "id": "b72d0ef11faf14d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dactyl - keybord/STL files.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dactyl - keybord/STL files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dactyl - keybord/STL files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dactyl - keybord/STL files.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,38 +144,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "862461e09e1803e7",
+  "active": "b72d0ef11faf14d0",
   "lastOpenFiles": [
-    "SKP/Portainer (The docker port).md",
-    "SKP/LaTeX vejen frem..md",
-    "Dokumentation (pent)",
-    "Dokumenteing (tech)",
-    "Weekly notes/2022-11-16.md",
-    "HovedForløb 4/CCNP ENCORE/Basic switch setup.md",
-    "HovedForløb 4/CCNP ENCORE/FINAL.md",
-    "HovedForløb 4/CCNP ENCORE/TO DO.md",
-    "HovedForløb 4/CCNP ENCORE/Untitled 1.md",
-    "HovedForløb 4/CCNP ENCORE/Untitled.md",
-    "HovedForløb 4/CCNP ENCORE/TCL cisco script.md",
-    "MariaDB/MariaDB.md",
-    "HovedForløb 5/CCNP ENARSI",
-    "HovedForløb 4/CCNP ENCORE/Area setup/OSPF.md",
-    "HovedForløb 2/CCNA/ROUTER CONFIG.md",
-    "HovedForløb 4/CCNP ENCORE/Misc/TCL (tickle).md",
-    "HovedForløb 4/CCNP ENCORE/Area setup/BGP.md",
-    "HovedForløb 2/CCNA/NTP CONFIG.md",
+    "Dactyl - keybord/Component list.md",
+    "Dactyl - keybord/Build Guide.md",
+    "Portainer.md",
+    "Auto-Overvågning/Grafana.html",
+    "Auto-Overvågning/Grafana.md",
+    "Auto-Overvågning/Prometheus.html",
+    "Auto-Overvågning/Prometheus.md",
+    "Dactyl - keybord/Component list.html",
+    "Dactyl - keybord/STL files.html",
+    "Dactyl - keybord/STL files.md",
+    "Dactyl - keybord/Build Guide.html",
+    "EdX Kuber/Containers.html",
+    "EdX Kuber/Containers.md",
+    "EdX Kuber/Contole Plane..html",
+    "EdX Kuber/Contole Plane..md",
+    "EdX Kuber/From Monolith To Microservices.html",
+    "EdX Kuber/From Monolith To Microservices.md",
+    "EdX Kuber/Kubernetes Architecture..html",
+    "EdX Kuber/Kubernetes Architecture..md",
+    "EdX Kuber/Kubernetes Concepts.html",
+    "EdX Kuber/Kubernetes Concepts.md",
+    "Git/Cheatsheet.md",
+    "Git/Concepts.md",
+    "Git/Git.md",
+    "Git/Setup.md",
+    "HovedForløb 1/ServerFag/PFSense Install.md",
+    "HovedForløb 2/CCNA/ACL CONFIG.md",
+    "HovedForløb 2/CCNA/CDP CONFIG.md",
+    "HovedForløb 2/CCNA/NAT CONFIG.md",
+    "HovedForløb 2/CCNA/NAT.md",
+    "HovedForløb 2/CCNA/ACL.md",
     "HovedForløb 2/CCNA/NTP.md",
-    "HovedForløb 2/CCNA/SWITCH CONFIG.md",
-    "HovedForløb 4/CCNP ENCORE/Basic router setup.md",
+    "HovedForløb 2/CCNA/NTP CONFIG.md",
+    "HovedForløb 2/CCNA/CDP.md",
     "HovedForløb 2/CCNA/OSPF CONFIG.md",
-    "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
-    "HovedForløb 4/CCNP ENCORE/Case/Case CCNP.md",
-    "HovedForløb 4/CCNP ENCORE/Importent chapters.md",
-    "LaTeX/Templates.md",
-    "HovedForløb 4/CCNP ENCORE/Case/CCNP - Case 2..md",
-    "HovedForløb 2/CCNA/ACL CONFIG.md"
+    "HovedForløb 2/Billeder-billag/edge-mockup.webp",
+    "HovedForløb 2/Billeder-billag/image-2.jpg"
   ]
 }
