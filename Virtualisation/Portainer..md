@@ -36,20 +36,20 @@ Denne kommando vil downloade den seneste version af Portainer og starte den i en
 
 ## Fane funktioner:
 
-Fanen Hjem: Denne fane giver et overblik over Docker-miljøet, inklusive antallet af containere, images, volumener og netværk.
+**Fanen Hjem:** Denne fane giver et overblik over Docker-miljøet, inklusive antallet af containere, images, volumener og netværk.
 
-Fanen Dashboard: Denne fane giver en mere detaljeret visning af Docker-miljøet, inklusive CPU-brug, hukommelsesbrug og netværksbrug for hver container.
+**Fanen Dashboard:** Denne fane giver en mere detaljeret visning af Docker-miljøet, inklusive CPU-brug, hukommelsesbrug og netværksbrug for hver container.
 
-Fanen Containere: Denne fane giver dig mulighed for at administrere dine Docker-containere. Du kan se, starte, stoppe, sætte på pause og fjerne containere. Du kan også oprette nye containere, redigere eksisterende og administrere containerlogfiler.
+**Fanen Containere:** Denne fane giver dig mulighed for at administrere dine Docker-containere. Du kan se, starte, stoppe, sætte på pause og fjerne containere. Du kan også oprette nye containere, redigere eksisterende og administrere containerlogfiler.
 
-Fanen Images: Denne fane giver dig mulighed for at administrere Docker-images. Du kan se, trække, skubbe og fjerne images. Du kan også oprette nye images og administrere billedtags.
+**Fanen Images:** Denne fane giver dig mulighed for at administrere Docker-images. Du kan se, trække, skubbe og fjerne images. Du kan også oprette nye images og administrere billedtags.
 
-Fanen Volumes: Denne fane giver dig mulighed for at administrere Docker-volumener. Du kan se, oprette, fjerne og inspicere diskenheder. Du kan også administrere volumentilladelser og backup-volumener.
+**Fanen Volumes:** Denne fane giver dig mulighed for at administrere Docker-volumener. Du kan se, oprette, fjerne og inspicere diskenheder. Du kan også administrere volumentilladelser og backup-volumener.
 
-Fanen Netværk: Denne fane giver dig mulighed for at administrere Docker-netværk. Du kan se, oprette, fjerne og inspicere netværk. Du kan også administrere netværkstilladelser og forbinde containere til netværk.
+**Fanen Netværk:** Denne fane giver dig mulighed for at administrere Docker-netværk. Du kan se, oprette, fjerne og inspicere netværk. Du kan også administrere netværkstilladelser og forbinde containere til netværk.
 
-Stack-faneblad: Denne fane giver dig mulighed for at administrere Docker-stacke, som er grupper af tjenester, der er defineret i en YAML-fil. Du kan se, implementere, fjerne og administrere stakke.
+**Stack-faneblad:** Denne fane giver dig mulighed for at administrere Docker-stacke, som er grupper af tjenester, der er defineret i en YAML-fil. Du kan se, implementere, fjerne og administrere stakke.
 
-Fanen App-skabeloner: Denne fane giver dig mulighed for at implementere foruddefinerede applikationer ved hjælp af Docker Compose eller Kubernetes. Du kan vælge mellem en række forskellige skabeloner, såsom WordPress, Joomla og Ghost.
+**Fanen App-skabeloner:** Denne fane giver dig mulighed for at implementere foruddefinerede applikationer ved hjælp af Docker Compose eller Kubernetes. Du kan vælge mellem en række forskellige skabeloner, såsom WordPress, Joomla og Ghost.
 
-Endpoint-faneblad: Denne fane giver dig mulighed for at administrere Docker-endepunkter. Du kan se, oprette og fjerne slutpunkter. Du kan også administrere slutpunktindstillinger, såsom TLS-certifikater og godkendelse.
+**Endpoint-faneblad:** Denne fane giver dig mulighed for at administrere Docker-endepunkter. Du kan se, oprette og fjerne slutpunkter. Du kan også administrere slutpunktindstillinger, såsom TLS-certifikater og godkendelse.
