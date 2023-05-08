@@ -1,3 +1,4 @@
+#cisco #network #ccnp 
 **1. What is the IPv6 address used by OSPFv3 non-DR/BDR routers to send link-state updates and link-state acknowledgments?**
 
 -   FF02::2
@@ -138,7 +139,7 @@
 ![](https://itexamanswers.net/wp-content/uploads/2021/01/2021-01-15_221702.jpg?ezimgfmt=rs:578x252/rscb2/ng:webp/ngcb2)
 
 -   R1(config-if)# tunnel source 172.16.2.1
--   R1(config-if #tunnel destination 172.16.2.2
+-   R1(config-if # tunnel destination 172.16.2.2
 -   R1(config-ifj#tunnel destination 209.165.202.129
 -   **R1(config-if)# tunnel destination 209.165.202.130**
 -   R1(config-if)# tunnel source 209.165.202.130

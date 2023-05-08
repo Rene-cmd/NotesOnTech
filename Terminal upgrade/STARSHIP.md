@@ -1,3 +1,4 @@
+#setup #linux #terminal
 Starship is a cross-shell prompt that is designed to be fast, powerful, and customizable. It is written in Rust and can be used on any system that has a compatible terminal emulator, such as macOS, Linux, and Windows.
 
 To install Starship on your system, you will need to have the Rust programming language installed. You can check if Rust is already installed by running the following command in your terminal:

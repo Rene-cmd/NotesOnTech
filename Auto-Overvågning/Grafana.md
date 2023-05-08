@@ -1,3 +1,4 @@
+#setup #infarstructure 
 Grafana is an open-source platform for data visualization and monitoring. It is widely used for visualizing time series data, such as metrics and logs, and can be integrated with various data sources, including InfluxDB, Prometheus, and Elasticsearch.
 
 Here are the steps to install and set up Grafana:

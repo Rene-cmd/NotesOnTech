@@ -1,3 +1,4 @@
+#github #setup #silas
 Git started on a new machine
 =========================================
 
