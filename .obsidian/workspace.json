@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python basic commands.md",
+                "file": "MariaDB/MariaDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "07c0b746b223cf1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python basic commands.md",
+                "file": "MariaDB/MariaDB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python basic commands.md",
+                "file": "MariaDB/MariaDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python basic commands.md"
+                "file": "MariaDB/MariaDB.md"
               }
             }
           }
@@ -144,49 +152,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4543a1c7e740095a",
   "lastOpenFiles": [
     "LaTeX/Sneaky lines..md",
-    "Python/Python basic commands.md",
     "LaTeX/Templates.md",
-    "Auto-Overvågning/Grafana.md",
-    "Virtualisation/Cockpit..md",
-    "Virtualisation/Portainer..md",
-    "SKP/Portainer (The docker port).md",
-    "SKP/LaTeX vejen frem..md",
-    "Terminal upgrade/Fig.IO.md",
-    "Misc/3D Print/DCS Flightsim.md",
-    "Misc/3D Print/Server forbedringer.md",
-    "Dactyl - keybord/STL files.md",
-    "Virtualisation/Server Setup Techcollege..md",
-    "Virtualisation/Podman..md",
-    "Virtualisation/Oracle VM..md",
-    "Virtualisation/Workstation VM..md",
-    "Virtualisation/Qemu..md",
-    "Virtualisation/Proxmox..md",
-    "WSL/WSL Config.md",
+    "HovedForløb 4/Net Tek/Ansible/Everything to be configured.md",
+    "HovedForløb 4/CCNP ENCORE/Area setup/BGP.md",
+    "HovedForløb 4/Automatisering/Backup script group.md",
+    "HovedForløb 4/Automatisering/Backup Script.md",
+    "HovedForløb 4/Automatisering/Backup -teori.md",
+    "HovedForløb 2/LINUX/SSH.md",
+    "HovedForløb 2/LINUX/RAID.md",
+    "HovedForløb 2/LINUX/Proxy.md",
+    "HovedForløb 2/LINUX/PHPServer.md",
+    "HovedForløb 2/LINUX/OperationSystem.md",
+    "HovedForløb 2/LINUX/NFS.md",
+    "HovedForløb 2/LINUX/Networking.md",
+    "HovedForløb 2/LINUX/MySQL.md",
+    "HovedForløb 2/LINUX/DNS Install.md",
+    "HovedForløb 2/LINUX/Debian Install Guide.md",
+    "HovedForløb 2/LINUX/DataBase.md",
+    "HovedForløb 2/LINUX/Commen Commands.md",
+    "HovedForløb 2/LINUX/Apache.md",
     "HovedForløb 2/LINUX/1. Server Linux.md",
+    "HovedForløb 2/Billeder-billag/image-2.jpg",
+    "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "HovedForløb 1/ServerFag/PFSense Install.md",
-    "HovedForløb 4/CCNP ENCORE/TO DO.md",
+    "Git/Concepts.md",
+    "Git/Cheatsheet.md",
+    "Git/illustrations/branching.png",
+    "Auto-Overvågning/Prometheus.md",
+    "Auto-Overvågning/Grafana.md",
     "Virtualisation",
-    "Dactyl - keybord/Component list.md",
-    "Dactyl - keybord/Build Guide.md",
     "Auto-Overvågning/Grafana.html",
     "Auto-Overvågning/Prometheus.html",
-    "Auto-Overvågning/Prometheus.md",
     "Dactyl - keybord/Component list.html",
     "Dactyl - keybord/STL files.html",
     "Dactyl - keybord/Build Guide.html",
     "EdX Kuber/Containers.html",
-    "EdX Kuber/Containers.md",
     "EdX Kuber/Contole Plane..html",
     "EdX Kuber/From Monolith To Microservices.html",
-    "EdX Kuber/Kubernetes Architecture..html",
-    "HovedForløb 2/Billeder-billag/edge-mockup.webp",
-    "HovedForløb 2/Billeder-billag/image-2.jpg"
+    "EdX Kuber/Kubernetes Architecture..html"
   ]
 }
