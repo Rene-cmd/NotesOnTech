@@ -170,6 +170,13 @@
   },
   "active": "5296fcb4303daa1a",
   "lastOpenFiles": [
+    "MarkDown/Presentation.md",
+    "MarkDown/Installation.md",
+    "MarkDown",
+    "GNS3/Configuration.md",
+    "GNS3/Installation.md",
+    "GNS3",
+    "GNS#",
     "Docker/Installation.md~",
     "Docker/Installation.md",
     "Ansible/Installation..md",
@@ -193,9 +200,6 @@
     "Terminal upgrade/ZSH.md",
     "Terminal upgrade/STARSHIP.md",
     "Terminal upgrade/Fig.IO.md",
-    "Stamps/Python..md",
-    "SKP/Portainer (The docker port).md",
-    "SKP/LaTeX vejen frem..md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",
@@ -204,10 +208,6 @@
     "Auto-Overvågning/Prometheus.html",
     "Dactyl - keybord/Component list.html",
     "Dactyl - keybord/STL files.html",
-    "Dactyl - keybord/Build Guide.html",
-    "EdX Kuber/Containers.html",
-    "EdX Kuber/Contole Plane..html",
-    "EdX Kuber/From Monolith To Microservices.html",
-    "EdX Kuber/Kubernetes Architecture..html"
+    "Dactyl - keybord/Build Guide.html"
   ]
 }
