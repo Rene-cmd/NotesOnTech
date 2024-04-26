@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4543a1c7e740095a",
+            "id": "5296fcb4303daa1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MariaDB/MariaDB.md",
+                "file": "Ansible/Configuration - first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03335edbeca71f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Configuration - first.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MariaDB/MariaDB.md",
+                "file": "Ansible/Configuration - first.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MariaDB/MariaDB.md",
+                "file": "Ansible/Configuration - first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MariaDB/MariaDB.md"
+                "file": "Ansible/Configuration - first.md"
               }
             }
           }
@@ -156,8 +168,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4543a1c7e740095a",
+  "active": "5296fcb4303daa1a",
   "lastOpenFiles": [
+    "Ansible/Installation..md",
+    "Ansible/Configuration - first.md",
+    "MariaDB/MariaDB.md",
     "Misc/3D Print/Server forbedringer.md",
     "Misc/3D Print/Vive Idears.md",
     "Misc/3D Print/Movies.md",
@@ -176,14 +191,11 @@
     "Terminal upgrade/ZSH.md",
     "Terminal upgrade/STARSHIP.md",
     "Terminal upgrade/Fig.IO.md",
-    "MariaDB/MariaDB.md",
     "Stamps/Python..md",
     "SKP/Portainer (The docker port).md",
     "SKP/LaTeX vejen frem..md",
     "EdX Kuber/Kubernetes Concepts.md",
     "EdX Kuber/Kubernetes Architecture..md",
-    "EdX Kuber/From Monolith To Microservices.md",
-    "EdX Kuber/Contole Plane..md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",

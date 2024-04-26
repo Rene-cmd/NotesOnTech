@@ -1,4 +1,4 @@
-lNuværende setup:
+Nuværende setup:
 
 ⦁	MS SQL server DB indeholder alt vores live data
 ⦁	Vi indtaster manuelt vores relevante data i goggle docs
