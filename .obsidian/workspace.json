@@ -170,6 +170,8 @@
   },
   "active": "5296fcb4303daa1a",
   "lastOpenFiles": [
+    "Docker/Installation.md~",
+    "Docker/Installation.md",
     "Ansible/Installation..md",
     "Ansible/Configuration - first.md",
     "MariaDB/MariaDB.md",
@@ -194,8 +196,6 @@
     "Stamps/Python..md",
     "SKP/Portainer (The docker port).md",
     "SKP/LaTeX vejen frem..md",
-    "EdX Kuber/Kubernetes Concepts.md",
-    "EdX Kuber/Kubernetes Architecture..md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",
