@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible/Configuration - first.md",
+                "file": "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "79a154ded37c75ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ansible/Configuration - first.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ansible/Configuration - first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ansible/Configuration - first.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,8 +174,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5296fcb4303daa1a",
+  "active": "0b05422376f6c0cf",
   "lastOpenFiles": [
+    "Untitled.md",
+    "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
+    "HovedForløb 4/CCNP ENCORE/Case/Case CCNP.md",
+    "HovedForløb 4/CCNP ENCORE/Area setup/OSPF.md",
+    "HovedForløb 4/CCNP ENCORE/Area setup/BGP.md",
+    "EdX Kuber/Containers.md",
+    "Ansible/Installation..md",
+    "Ansible/Configuration - first.md",
     "MarkDown/Presentation.md",
     "MarkDown/Installation.md",
     "MarkDown",
@@ -179,8 +193,6 @@
     "GNS#",
     "Docker/Installation.md~",
     "Docker/Installation.md",
-    "Ansible/Installation..md",
-    "Ansible/Configuration - first.md",
     "MariaDB/MariaDB.md",
     "Misc/3D Print/Server forbedringer.md",
     "Misc/3D Print/Vive Idears.md",
@@ -194,12 +206,6 @@
     "Virtualisation/Qemu..md",
     "Virtualisation/Proxmox..md",
     "Virtualisation/Podman..md",
-    "Virtualisation/Oracle VM..md",
-    "Virtualisation/Cockpit..md",
-    "Terminal upgrade/Git Script.md",
-    "Terminal upgrade/ZSH.md",
-    "Terminal upgrade/STARSHIP.md",
-    "Terminal upgrade/Fig.IO.md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",
