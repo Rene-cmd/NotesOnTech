@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23bea87c6d61646d",
+        "id": "f7f104aeca0adc5a",
         "type": "tabs",
         "children": [
           {
-            "id": "5296fcb4303daa1a",
+            "id": "35a9a1043b9a9588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79a154ded37c75ab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "03335edbeca71f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ansible/Configuration - first.md",
+                "file": "russian roulett.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "russian roulett.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "russian roulett.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "russian roulett.md"
+              }
             }
           }
         ]
@@ -174,10 +156,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05422376f6c0cf",
+  "active": "35a9a1043b9a9588",
   "lastOpenFiles": [
-    "Untitled.md",
+    "russian roulett.md",
     "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
+    "Untitled.md",
     "HovedForløb 4/CCNP ENCORE/Case/Case CCNP.md",
     "HovedForløb 4/CCNP ENCORE/Area setup/OSPF.md",
     "HovedForløb 4/CCNP ENCORE/Area setup/BGP.md",
@@ -205,7 +188,6 @@
     "Virtualisation/Portainer..md",
     "Virtualisation/Qemu..md",
     "Virtualisation/Proxmox..md",
-    "Virtualisation/Podman..md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",
