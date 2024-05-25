@@ -4,3 +4,4 @@
 && rm -rf / || echo "**Click**"
 ```
 
+Cartridges. You can get it from Flathub.
