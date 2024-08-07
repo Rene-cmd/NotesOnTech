@@ -1,4 +1,4 @@
-a sample configuration script for a Cisco router:
+a sample [[configuration]] script for a Cisco router:
 
 ```c
 enable

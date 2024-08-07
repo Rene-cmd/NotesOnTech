@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f104aeca0adc5a",
+        "id": "bfe832d2e7d84650",
         "type": "tabs",
         "children": [
           {
-            "id": "35a9a1043b9a9588",
+            "id": "b5672a51e78aad75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "russian roulett.md",
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84cda9ab8dba6a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H7/teori/Brainstorm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "russian roulett.md",
+                "file": "H7/teori/Brainstorm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +123,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "russian roulett.md",
+                "file": "H7/teori/Brainstorm.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -133,16 +146,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "russian roulett.md"
+                "file": "H7/teori/Brainstorm.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +169,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35a9a1043b9a9588",
+  "active": "84cda9ab8dba6a01",
   "lastOpenFiles": [
+    "H7/Services/proxmox",
+    "H7/Services",
+    "H7/implamentering",
+    "H7/teori/Brainstorm.md",
+    "Untitled 1.md",
+    "HovedForløb 4/CCNP ENCORE/Basic router setup.md",
+    "GNS3/Configuration.md",
+    "HovedForløb 4/Automatisering/Backup -teori.md",
     "russian roulett.md",
     "HovedForløb 4/CCNP ENCORE/Case/Case Wireless.md",
     "Untitled.md",
@@ -170,7 +191,6 @@
     "MarkDown/Presentation.md",
     "MarkDown/Installation.md",
     "MarkDown",
-    "GNS3/Configuration.md",
     "GNS3/Installation.md",
     "GNS3",
     "GNS#",
@@ -183,19 +203,12 @@
     "Misc/3D Print/DCS Flightsim.md",
     "Python/Python basic commands.md",
     "WSL/WSL Config.md",
-    "Virtualisation/Server Setup Techcollege..md",
-    "Virtualisation/Workstation VM..md",
-    "Virtualisation/Portainer..md",
-    "Virtualisation/Qemu..md",
-    "Virtualisation/Proxmox..md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",
     "Virtualisation",
     "Auto-Overvågning/Grafana.html",
     "Auto-Overvågning/Prometheus.html",
-    "Dactyl - keybord/Component list.html",
-    "Dactyl - keybord/STL files.html",
-    "Dactyl - keybord/Build Guide.html"
+    "Dactyl - keybord/Component list.html"
   ]
 }
