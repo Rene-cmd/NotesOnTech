@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Thu Aug  8 13:41:12 2024 as: nmap -sV -p- -oN scan_results.txt -oG grepable_results.txt 10.0.1.0/24
+Host: 10.0.1.2 ()	Status: Up
+Host: 10.0.1.2 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)/, 8096/open/tcp//unknown///, 9090/open/tcp//http//Golang net|http server (Go-IPFS json-rpc or InfluxDB API)/, 9100/open/tcp//jetdirect?///, 32400/open/tcp//ssl|plex?///	Ignored State: closed (65530)
+# Nmap done at Thu Aug  8 13:43:19 2024 -- 256 IP addresses (1 host up) scanned in 127.16 seconds

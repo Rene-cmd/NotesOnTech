@@ -1,0 +1,81 @@
+# Nmap 7.80 scan initiated Thu Aug  8 13:41:12 2024 as: nmap -sV -p- -oN scan_results.txt -oG grepable_results.txt 10.0.1.0/24
+Nmap scan report for 10.0.1.2
+Host is up (0.000058s latency).
+Not shown: 65530 closed ports
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
+8096/tcp  open  unknown
+9090/tcp  open  http       Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
+9100/tcp  open  jetdirect?
+32400/tcp open  ssl/plex?
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port8096-TCP:V=7.80%I=7%D=8/8%Time=66B4AEE8%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,82,"HTTP/1\.1\x20500\x20Internal\x20Server\x20Error\r\nContent-
+SF:Length:\x200\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202
+SF:024\x2011:41:28\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(HTTPOptions,82
+SF:,"HTTP/1\.1\x20500\x20Internal\x20Server\x20Error\r\nContent-Length:\x2
+SF:00\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2011:
+SF:41:28\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(RTSPRequest,87,"HTTP/1\.
+SF:1\x20505\x20HTTP\x20Version\x20Not\x20Supported\r\nContent-Length:\x200
+SF:\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2011:41
+SF::28\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(Help,78,"HTTP/1\.1\x20400\
+SF:x20Bad\x20Request\r\nContent-Length:\x200\r\nConnection:\x20close\r\nDa
+SF:te:\x20Thu,\x2008\x20Aug\x202024\x2011:41:43\x20GMT\r\nServer:\x20Kestr
+SF:el\r\n\r\n")%r(SSLSessionReq,78,"HTTP/1\.1\x20400\x20Bad\x20Request\r\n
+SF:Content-Length:\x200\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20
+SF:Aug\x202024\x2011:41:43\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(Termin
+SF:alServerCookie,78,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Length
+SF::\x200\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2
+SF:011:41:43\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(TLSSessionReq,78,"HT
+SF:TP/1\.1\x20400\x20Bad\x20Request\r\nContent-Length:\x200\r\nConnection:
+SF:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2011:41:43\x20GMT\r\nS
+SF:erver:\x20Kestrel\r\n\r\n")%r(Kerberos,78,"HTTP/1\.1\x20400\x20Bad\x20R
+SF:equest\r\nContent-Length:\x200\r\nConnection:\x20close\r\nDate:\x20Thu,
+SF:\x2008\x20Aug\x202024\x2011:41:43\x20GMT\r\nServer:\x20Kestrel\r\n\r\n"
+SF:)%r(FourOhFourRequest,92,"HTTP/1\.1\x20404\x20Not\x20Found\r\nContent-L
+SF:ength:\x200\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x2020
+SF:24\x2011:41:53\x20GMT\r\nServer:\x20Kestrel\r\nX-Response-Time-ms:\x207
+SF:\.4832\r\n\r\n")%r(LPDString,78,"HTTP/1\.1\x20400\x20Bad\x20Request\r\n
+SF:Content-Length:\x200\r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20
+SF:Aug\x202024\x2011:41:53\x20GMT\r\nServer:\x20Kestrel\r\n\r\n")%r(LDAPSe
+SF:archReq,78,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Length:\x200\
+SF:r\nConnection:\x20close\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2011:41:
+SF:53\x20GMT\r\nServer:\x20Kestrel\r\n\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port32400-TCP:V=7.80%T=SSL%I=7%D=8/8%Time=66B4AEF1%P=x86_64-pc-linux-gn
+SF:u%r(GenericLines,109,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nX-Plex-Prot
+SF:ocol:\x201\.0\r\nContent-Length:\x2089\r\nContent-Type:\x20text/html\r\
+SF:nConnection:\x20close\r\nCache-Control:\x20no-cache\r\nDate:\x20Thu,\x2
+SF:008\x20Aug\x202024\x2011:41:34\x20GMT\r\n\r\n<html><head><title>Bad\x20
+SF:Request</title></head><body><h1>400\x20Bad\x20Request</h1></body></html
+SF:>")%r(GetRequest,173,"HTTP/1\.1\x20401\x20Unauthorized\r\nX-Plex-Protoc
+SF:ol:\x201\.0\r\nContent-Length:\x20193\r\nContent-Type:\x20text/html\r\n
+SF:Connection:\x20close\r\nCache-Control:\x20no-cache\r\nDate:\x20Thu,\x20
+SF:08\x20Aug\x202024\x2011:41:37\x20GMT\r\n\r\n<html><head><script>window\
+SF:.location\x20=\x20window\.location\.href\.match\(/\(\^\.\+\\/\)\[\^\\/\
+SF:]\*\$/\)\[1\]\x20\+\x20'web/index\.html';</script><title>Unauthorized</
+SF:title></head><body><h1>401\x20Unauthorized</h1></body></html>")%r(HTTPO
+SF:ptions,173,"HTTP/1\.1\x20401\x20Unauthorized\r\nX-Plex-Protocol:\x201\.
+SF:0\r\nContent-Length:\x20193\r\nContent-Type:\x20text/html\r\nConnection
+SF::\x20close\r\nCache-Control:\x20no-cache\r\nDate:\x20Thu,\x2008\x20Aug\
+SF:x202024\x2011:41:37\x20GMT\r\n\r\n<html><head><script>window\.location\
+SF:x20=\x20window\.location\.href\.match\(/\(\^\.\+\\/\)\[\^\\/\]\*\$/\)\[
+SF:1\]\x20\+\x20'web/index\.html';</script><title>Unauthorized</title></he
+SF:ad><body><h1>401\x20Unauthorized</h1></body></html>")%r(RTSPRequest,173
+SF:,"HTTP/1\.1\x20401\x20Unauthorized\r\nX-Plex-Protocol:\x201\.0\r\nConte
+SF:nt-Length:\x20193\r\nContent-Type:\x20text/html\r\nConnection:\x20close
+SF:\r\nCache-Control:\x20no-cache\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2
+SF:011:41:37\x20GMT\r\n\r\n<html><head><script>window\.location\x20=\x20wi
+SF:ndow\.location\.href\.match\(/\(\^\.\+\\/\)\[\^\\/\]\*\$/\)\[1\]\x20\+\
+SF:x20'web/index\.html';</script><title>Unauthorized</title></head><body><
+SF:h1>401\x20Unauthorized</h1></body></html>")%r(RPCCheck,109,"HTTP/1\.1\x
+SF:20400\x20Bad\x20Request\r\nX-Plex-Protocol:\x201\.0\r\nContent-Length:\
+SF:x2089\r\nContent-Type:\x20text/html\r\nConnection:\x20close\r\nCache-Co
+SF:ntrol:\x20no-cache\r\nDate:\x20Thu,\x2008\x20Aug\x202024\x2011:41:37\x2
+SF:0GMT\r\n\r\n<html><head><title>Bad\x20Request</title></head><body><h1>4
+SF:00\x20Bad\x20Request</h1></body></html>");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Aug  8 13:43:19 2024 -- 256 IP addresses (1 host up) scanned in 127.16 seconds
