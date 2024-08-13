@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H7/implamentering/Topologi.md",
+                "file": "H7/setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H7/implamentering/Topologi.md",
+                "file": "H7/setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H7/implamentering/Topologi.md",
+                "file": "H7/setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H7/implamentering/Topologi.md"
+                "file": "H7/setup.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   },
   "active": "f46785d1cced6c65",
   "lastOpenFiles": [
+    "H7/noter.md~",
+    "H7/noter.md",
     "H7/implamentering/Topologi.md",
     "H7/Services/proxmox",
     "H7/Services",
@@ -214,8 +216,6 @@
     "Misc/3D Print/Vive Idears.md",
     "Misc/3D Print/Movies.md",
     "Misc/3D Print/DCS Flightsim.md",
-    "Python/Python basic commands.md",
-    "WSL/WSL Config.md",
     "HovedForløb 2/Billeder-billag/image-2.jpg",
     "HovedForløb 2/Billeder-billag/edge-mockup.webp",
     "Git/illustrations/branching.png",

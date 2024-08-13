@@ -1,8 +1,9 @@
 {
-  "editor:toggle-code": [
+  "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "K"
     }
